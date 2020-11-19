@@ -6,7 +6,7 @@
 
 ## Description
 
-Project 3/30. Fun and easy project learning the basics of vanilla JavaScript, a creative course imparted by [Wes Bos](https://github.com/wesbos).
+Project 5/30. Fun and easy project learning the basics of vanilla JavaScript, a creative course imparted by [Wes Bos](https://github.com/wesbos).
 
 
 ***
