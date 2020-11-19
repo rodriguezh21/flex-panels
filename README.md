@@ -6,7 +6,7 @@
 
 ## Description
 
-Project 5/30. In this project, we go over flex boxes and panels to create a nice and neat opening and closing effect as well as font-size and flex-grow when each panel is clicked. Fun and easy project learning the basics of vanilla JavaScript, a creative course imparted by [Wes Bos](https://github.com/wesbos).
+_Project 5/30_. In this project, we go over flex boxes and panels to create a nice and neat opening and closing effect as well as font-size and flex-grow when each panel is clicked. Fun and easy project learning the basics of vanilla JavaScript, a creative course imparted by [Wes Bos](https://github.com/wesbos).
 
 
 ***
